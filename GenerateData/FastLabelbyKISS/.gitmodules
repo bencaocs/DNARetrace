@@ -1,0 +1,12 @@
+[submodule "submodules/spdlog"]
+	path = submodules/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "submodules/tbb"]
+	path = submodules/tbb
+	url = https://github.com/oneapi-src/oneTBB
+[submodule "experiment/submodules/parallel-divsufsort"]
+	path = experiment/submodules/parallel-divsufsort
+	url = https://github.com/JHHLAB/parallel-divsufsort.git
+[submodule "experiment/submodules/libsais"]
+	path = experiment/submodules/libsais
+	url = https://github.com/IlyaGrebnov/libsais.git
