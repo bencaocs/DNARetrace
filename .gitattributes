@@ -1,0 +1,1 @@
+GenerateData/FastLabelbyKISS/example/*.fmi filter=lfs diff=lfs merge=lfs -text
